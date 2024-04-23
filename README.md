@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue, Laravel, Javascript, Php**
 
-- 👨‍💻 All of my projects are available at [https://karthigaiselvan.com/]
+- 👨‍💻 All of my projects are available at https://karthigaiselvan.com
 
 - 💬 Ask me about **My Sql, Php, Laravel**
 
